@@ -11,7 +11,7 @@ h1 {
 
 section {
   border: 1px solid black;    
-  background-color: grey;
+  background-color:lightpink;
   height: 200px;
   overflow: auto;
 }
